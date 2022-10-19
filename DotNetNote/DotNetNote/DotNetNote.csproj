@@ -10,4 +10,8 @@
     <ProjectReference Include="..\DotNetNote.Models\DotNetNote.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>
